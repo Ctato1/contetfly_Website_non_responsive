@@ -87,7 +87,7 @@
         color: red;
     }
 
-    /* SCALEEEEEE */
+    /* SCALE */
 
 
 
@@ -95,7 +95,7 @@
         width: 400px;
     }
 
-    /* AVERAGEEEEEEE */
+    /* AVERAGE */
 
 
     .average {
@@ -108,16 +108,7 @@
 
     }
 
-
-
-
-
-
-
-
-
-
-    /* JOINNNNN */
+    /* JOINNN */
 
 
     .join-texts {
@@ -142,9 +133,7 @@
 
     }
 
-
-    /* FOOOTEEER */
-
+    /* FOOOTER */
 
     .footer-div-logo {
         display: flex;
@@ -186,15 +175,12 @@
 
 }
 
-
-
 @media screen and (max-width: 1020px) {
     .main {
         width: 50%;
         margin: auto;
     }
 }
-
 
 @media screen and (max-width: 980px) {
     .footer-div-logo {
@@ -205,11 +191,6 @@
         text-align: center;
     }
 }
-
-
-
-
-
 
 @media screen and (max-width: 900px) {
     .scale-img {
